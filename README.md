@@ -1,4 +1,17 @@
-# python-flask-vue-mongo-crud
+# Vue JS + Python + Flask + Mongo DB CRUD
 
-Local setup
-https://www.knowledgefactory.net/2020/12/python-mongodb-vuejs-crud-application.html
+<h1>Run the backend application</h1>
+
+Run the server file using the following command. Make sure your MongoDB server is still running : 
+
+**$ python3 app.py**
+
+Your application server will run locally at http://localhost:5000
+
+<h1>Run the frontend application</h1>
+
+**npm install**
+
+**npm run serve**
+
+Your application will run locally at http://localhost:8080
